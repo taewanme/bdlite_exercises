@@ -1,0 +1,11 @@
+{
+"type" : "record",
+"name" : "trans",
+"fields" : 
+	[ {"name" :"teller", "type" :"int", "default" :0 },
+	  {"name" :"kiosk", "type" :"int", "default" :0 },
+	  {"name" :"atm", "type" :"int", "default" :0 },
+	  {"name" :"webbank", "type" :"int", "default" :0 },
+	  {"name" :"sum", "type" :"float", "default" :0.0 }
+	]
+}

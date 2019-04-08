@@ -1,0 +1,112 @@
+
+
+ LOG file opened at 06/25/15 13:07:19
+
+KUP-05007:   Warning: Intra source concurrency disabled because the preprocessor option is being used.
+
+Field Definitions for table EXTERNAL_HDFS
+  Record format DELIMITED, delimited by 0A
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    CHECKING_AMOUNT                 CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    BANK_FUNDS                      CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    MONTHLY_CHECKS_WRITTEN          CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    AMOUNT_AUTOM_PAYMENTS           CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 06/25/15 13:07:38
+
+KUP-05007:   Warning: Intra source concurrency disabled because the preprocessor option is being used.
+
+Field Definitions for table EXTERNAL_HDFS
+  Record format DELIMITED, delimited by 0A
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    CHECKING_AMOUNT                 CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    BANK_FUNDS                      CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    MONTHLY_CHECKS_WRITTEN          CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    AMOUNT_AUTOM_PAYMENTS           CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 06/25/15 13:07:50
+
+KUP-05007:   Warning: Intra source concurrency disabled because the preprocessor option is being used.
+
+Field Definitions for table EXTERNAL_HDFS
+  Record format DELIMITED, delimited by 0A
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    CHECKING_AMOUNT                 CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    BANK_FUNDS                      CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    MONTHLY_CHECKS_WRITTEN          CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    AMOUNT_AUTOM_PAYMENTS           CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+
+
+ LOG file opened at 06/25/15 13:08:28
+
+KUP-05007:   Warning: Intra source concurrency disabled because the preprocessor option is being used.
+
+Field Definitions for table EXTERNAL_HDFS
+  Record format DELIMITED, delimited by 0A
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    CUSTOMER_ID                     CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    CHECKING_AMOUNT                 CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    BANK_FUNDS                      CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    MONTHLY_CHECKS_WRITTEN          CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader
+    AMOUNT_AUTOM_PAYMENTS           CHAR (4000)
+      Terminated by "2C"
+      Trim whitespace same as SQL Loader

@@ -1,0 +1,35 @@
+<config version="1">
+  <component name="publish" type="params">
+
+    <property name="oracle.kv.exttab.connection.url"
+	      value="jdbc:oracle:thin:/@//localhost:1521/orcl"
+	      type="STRING"/>
+    <property name="oracle.kv.exttab.connection.user"
+	      value="BDA" type="STRING"/>
+    <property name="oracle.kv.exttab.tableName" value="external_nosql"
+	      type="STRING"/>
+  </component>
+  <component name="nosql_stream" type="params">
+    <!-- Fill in appropriate values for
+	oracle.kv.kvstore and oracle.kv.hosts
+       -->
+    <property name="oracle.kv.kvstore"
+	      value="kvstore"
+	      type="STRING"/>
+    <property name="oracle.kv.hosts"
+	      value="localhost:5000"
+	      type="STRING"/>
+    <property name="oracle.kv.batchSize"
+	      value="100"
+	      type="INT"/>
+    <property name="oracle.kv.depth"
+	      value="PARENT_AND_DESCENDANTS"
+	      type="STRING"/>
+    <property name="oracle.kv.parentKey"
+	      value="/Participant"
+	      type="STRING"/>
+    <property name="oracle.kv.formatterClass"
+	      value="externaltables.MyFormatter"
+	      type="STRING"/>
+  </component>
+</config>

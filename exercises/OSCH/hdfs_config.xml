@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<configuration>
+  <property>
+    <name>oracle.hadoop.exttab.tableName</name>
+    <value>BDA.EXTERNAL_HDFS</value>
+  </property>
+  <property>
+    <name>oracle.hadoop.exttab.dataPaths</name>
+    <value>/user/oracle/customer_averages/part-r-00000</value>
+  </property>
+  <property>
+    <name>oracle.hadoop.exttab.fieldDelimiter</name>
+    <value>,</value>
+  </property>
+  <property>
+    <name>oracle.hadoop.exttab.defaultDirectory</name>
+    <value>EXTERNAL_DIR</value>
+  </property>
+  <property>
+    <name>oracle.hadoop.connection.url</name>
+    <value>jdbc:oracle:thin:@localhost:1521/orcl</value>
+  </property>
+  <property>
+    <name>oracle.hadoop.connection.user</name>
+    <value>BDA</value>
+  </property>
+  <property>
+    <name>oracle.hadoop.exttab.printStackTrace</name>
+    <value>true</value>
+  </property>
+  <property>
+    <name>oracle.hadoop.exttab.columnNames</name>
+    <value>customer_id,checking_amount,bank_funds,monthly_checks_written,amount_autom_payments</value>
+  </property>
+</configuration>

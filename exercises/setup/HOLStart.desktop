@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=firefox
+Exec=firefox /home/oracle/exercises/setup/HOLStartHere.html
+Name[en_US]=HOL Start Here
+Name=HOL Start Here
+Icon=firefox

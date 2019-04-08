@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_US]=/home/oracle/scripts/ic-OracleDatabase12cCampaign-red.gif
+Name[en_US]=Start Oracle HOL Services
+Exec=/home/oracle/exercises/setup/start_oracle.sh
+Name=Start Oracle HOL Services
+Icon=/home/oracle/scripts/oracle12c.gif
